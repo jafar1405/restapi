@@ -29,13 +29,13 @@
     "name": "typicode"
   },
   "listings":[
-    [
+    {
       "companyname":"Sejox",
       "contact":"9985630786"
-    ],
-    [
+    },
+    {
       "companyname":"xojes",
       "contact":"9963647856"
-    ]
+    }
   ]
 }
